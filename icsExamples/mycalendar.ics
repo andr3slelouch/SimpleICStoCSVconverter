@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:-//John Papaioannou/NONSGML Bennu 0.1//EN
+VERSION:2.0
+BEGIN:VEVENT
+UID:50558@educacionvirtual.epn.edu.ec
+SUMMARY:Exp N.1 IB
+DESCRIPTION:\nESCUELA POLITÉCNICA NACIONAL \nFACULTAD DE INGENIERÍA DE SIST
+	EMAS\nINGENIERÍA EN SISTEMAS INFORMÁTICOS Y DE COMPUTACIÓN\nPERÍODO ACADÉMI
+	CO:2019B\nASIGNATURA:SIC 634\nPROFESOR: Maritzol Tenemaza\nTIPO DE INSTRUME
+	NTO: Exposición GIT\nFECHA DE ENTREGA: 09-10-2019TRABAJO \nQueridos estudia
+	ntes\, organizarse en grupos de 5 estudiantes. Investigar el uso de GIT y/o
+	 GIT HUB\,  Prepara una exposición práctica. Pueden crear un programa simpl
+	e (Ingreso salida de datos) y preparar una exposición para el miércoles. \n
+	\n\nRubrica de Evaluación:\nPresentación:\n\nParticipación de todos los est
+	udiantes  2\nComprensión  y claridad en la exposición 5\nTrabajo escrito 3 
+	(Debe incluir conclusiones\, y recomendaciones)\nEl trabajo escrito lo debe
+	n subir aqui en este enlace \, solo sube UN estudiante\, pero en el documen
+	to deberá registrar los nombres de los 5 estudiantes. \n\nCordialmente\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20191007T042148Z
+DTSTAMP:20191010T210447Z
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+CATEGORIES:07_SIC634_GR1SIS_2019-2
+END:VEVENT
+BEGIN:VEVENT
+UID:52594@educacionvirtual.epn.edu.ec
+SUMMARY:Cuestionario DWH
+DESCRIPTION:Subir un archivo en pdf con las respuestas a las siguientes con
+	sultas\;\nCaracteristicas de un DWH\nPreguntas de revisión\n1.- Qué es un D
+	ata warehouse? y un datamert?\n2.  Explique 4 características de un DWH\n3.
+	 Explique 4 beneficios de un DWH\n4. Explicar las caracteristicas de un dat
+	amart dependiente  de un independiente\n5. Explicar las etapas del ciclo de
+	 vida de un DWH según Kimball\n 
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20191008T201219Z
+DTSTAMP:20191010T210447Z
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+CATEGORIES:07_SIC614_GR2SIS_2019-2
+END:VEVENT
+BEGIN:VEVENT
+UID:51633@educacionvirtual.epn.edu.ec
+SUMMARY:Módulo1 Big data
+DESCRIPTION:Seguir el módulo 1 del curso en linea de  Big Data para aplicac
+	iones de negocio (https://www.unimooc.com/cursos/big-data). Subir un archiv
+	o en pdf con la evaluación del módulo 1 . En el resultado de la evaluación 
+	en linea debe aparecer el nombre del estudiante
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20191009T132343Z
+DTSTAMP:20191010T210447Z
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+CATEGORIES:07_SIC614_GR2SIS_2019-2
+END:VEVENT
+END:VCALENDAR
